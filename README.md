@@ -1,1 +1,1 @@
-# Unity GitHub Setup
+# Auto GitHub Setup
